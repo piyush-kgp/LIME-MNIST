@@ -20,7 +20,6 @@ We find a close form solution to this objective function and use it to find `the
 # Example:
 
 <img src='images/E_4_6313_orig.jpg' width=200 height=200>
-
 <img src='images/E_4_6313_lime_seaborn.jpg' width=200 height=200>
 
 On the left is the original image and on the right is the explanation by LIME.
