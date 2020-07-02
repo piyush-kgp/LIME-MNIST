@@ -18,11 +18,14 @@ where the weights are given by a gaussian kernel at `X_h`:
 We find a close form solution to this objective function and use it to find `theta` which is our explanation.
 
 # Example:
+Original Image           |  Explanation by LIME
+:-------------------------:|:-------------------------:
+<img src='images/E_4_6313_orig.jpg' width=200 height=200>  |  <img src='images/E_4_6313_lime_seaborn.jpg' width=200 height=200>
 
-<img src='images/E_4_6313_orig.jpg' width=200 height=200>
-<img src='images/E_4_6313_lime_seaborn.jpg' width=200 height=200>
+<!-- <img src='images/E_4_6313_orig.jpg' width=200 height=200>
+<img src='images/E_4_6313_lime_seaborn.jpg' width=200 height=200> -->
 
-On the left is the original image and on the right is the explanation by LIME.
+<!-- On the left is the original image and on the right is the explanation by LIME. -->
 
 # Original Paper
 “Why Should I Trust You?” Explaining the Predictions of Any Classifier, Ribiero et al., KDD 2016
